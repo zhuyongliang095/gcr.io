@@ -1,0 +1,1 @@
+FROM quay.io/coreos/flanne:v0.7.1-amd64
